@@ -1,8 +1,8 @@
-# 2025-05-19-flexbox
+# Länkar:
 
-[Länk till presentationen](https://docs.google.com/presentation/d/17dd9Lq799zny2WnH6SpToA0RiJuXvi_Jcjn_55oUIBw/edit?usp=sharing)
-[CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Länk till övningar (fokusera på de sista om responsivitet och Media Queries)](https://docs.google.com/document/d/1_bWuo8l6KtyQi0JEvq3d2Sh_C8kiG2nONl9r4sHcA1s/edit?usp=sharing)
+- [Länk till presentationen](https://docs.google.com/presentation/d/17dd9Lq799zny2WnH6SpToA0RiJuXvi_Jcjn_55oUIBw/edit?usp=sharing)
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Länk till övningar (fokusera på de sista om responsivitet och Media Queries)](https://docs.google.com/document/d/1_bWuo8l6KtyQi0JEvq3d2Sh_C8kiG2nONl9r4sHcA1s/edit?usp=sharing)
 
 # 📦 Flexbox – snabbguide
 
